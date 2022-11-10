@@ -1,7 +1,7 @@
 <h1 align="center">Oi, sou Oziel Ferreira da Silva</h1>
 <h3 align="center">Graduando e pesquisador na área de Engenharia de Computação</h3>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis [aqui](/#)
+- 👨‍💻 Todos os meus projetos estão disponíveis [aqui](/)
 
 - 💬 Pergunte-me sobre **C/C++** ou **Javascript**
 
